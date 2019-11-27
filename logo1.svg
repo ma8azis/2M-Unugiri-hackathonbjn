@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g54"
+       transform="translate(-58.208333,116.41667)">
+      <g
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+         transform="matrix(0.18993182,0,0,0.18993182,-240.60145,55.1552)"
+         id="Page-1">
+        <g
+           id="ux-ui-logo"
+           transform="translate(0,-679)" />
+        <g
+           id="g24">
+          <g
+             id="Logo"
+             transform="translate(242,116)">
+            <circle
+               id="Oval"
+               style="mix-blend-mode:multiply;fill:#eb5e03;fill-rule:nonzero"
+               cx="223.58"
+               cy="223.60001"
+               r="222.89" />
+            <circle
+               id="circle18"
+               style="mix-blend-mode:multiply;fill:#ffcf00;fill-rule:nonzero"
+               cx="574.25"
+               cy="223.60001"
+               r="222.89" />
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 220.61,252.54 c 0,7.92004 -0.80666,15.32663 -2.42,22.22 -1.61334,6.89337 -4.25332,12.94331 -7.92,18.15 -3.66669,5.20669 -8.46997,9.31332 -14.41,12.32 -5.94003,3.00668 -13.23662,4.51 -21.89,4.51 -8.65338,0 -15.87664,-1.50332 -21.67,-4.51 -5.79336,-3.00668 -10.52332,-7.11331 -14.19,-12.32 -3.66669,-5.20669 -6.26999,-11.25663 -7.81,-18.15 -1.54001,-6.89337 -2.31,-14.29996 -2.31,-22.22 v -102.3 h 19.8 v 100.32 c 0,5.28003 0.40333,10.37664 1.21,15.29 0.80667,4.91336 2.19999,9.27665 4.18,13.09 1.98001,3.81335 4.69332,6.85665 8.14,9.13 3.44668,2.27334 7.80997,3.41 13.09,3.41 5.28003,0 9.60665,-1.13666 12.98,-3.41 3.37335,-2.27335 6.04999,-5.31665 8.03,-9.13 1.98001,-3.81335 3.37333,-8.17664 4.18,-13.09 0.80667,-4.91336 1.21,-10.00997 1.21,-15.29 V 150.24 h 19.8 z m 62.88,-44.22 25.52,-58.08 h 20.46 l -35.42,73.7 39.6,82.06 H 312.09 L 282.83,240.44 253.57,306 h -20.9 l 39.38,-82.28 -35.42,-73.48 h 20.9 z"
+               id="UX" />
+            <path
+               style="fill:#000000"
+               inkscape:connector-curvature="0"
+               d="m 595.14,252.54 c 0,7.92004 -0.80666,15.32663 -2.42,22.22 -1.61334,6.89337 -4.25332,12.94331 -7.92,18.15 -3.66668,5.20669 -8.46997,9.31332 -14.41,12.32 -5.94003,3.00668 -13.23662,4.51 -21.89,4.51 -8.65338,0 -15.87664,-1.50332 -21.67,-4.51 -5.79336,-3.00668 -10.52331,-7.11331 -14.19,-12.32 -3.66668,-5.20669 -6.26999,-11.25663 -7.81,-18.15 -1.54001,-6.89337 -2.31,-14.29996 -2.31,-22.22 v -102.3 h 19.8 v 100.32 c 0,5.28003 0.40333,10.37664 1.21,15.29 0.80667,4.91336 2.19999,9.27665 4.18,13.09 1.98001,3.81335 4.69332,6.85665 8.14,9.13 3.44668,2.27334 7.80997,3.41 13.09,3.41 5.28003,0 9.60665,-1.13666 12.98,-3.41 3.37335,-2.27335 6.04999,-5.31665 8.03,-9.13 1.98001,-3.81335 3.37333,-8.17664 4.18,-13.09 0.80667,-4.91336 1.21,-10.00997 1.21,-15.29 V 150.24 h 19.8 z M 623.26,306 V 150.24 h 19.8 V 306 Z"
+               id="UI" />
+          </g>
+          <rect
+             style="stroke:#ffffff;stroke-width:0.5"
+             id="Rectangle-path"
+             x="1"
+             y="1"
+             width="1280"
+             height="677.96997" />
+        </g>
+      </g>
+      <ellipse
+         style="fill:#ffcf00;fill-opacity:1;stroke-width:0.26458332"
+         ry="24.230595"
+         rx="25.359924"
+         cy="121.65916"
+         cx="-83.497223"
+         id="path42" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:39.7383461px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eb5e03;fill-opacity:1;stroke:none;stroke-width:0.99345869;"
+       x="-86.13707"
+       y="233.41286"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         x="-86.13707"
+         y="233.41286"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono Bold';stroke-width:0.99345869;fill:#eb5e03;fill-opacity:1;">BOJONEGORO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:39.7383461px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcf00;fill-opacity:1;stroke:none;stroke-width:0.99345875;"
+       x="-88.294868"
+       y="264.27853"
+       id="text58-3"><tspan
+         sodipodi:role="line"
+         id="tspan56-6"
+         x="-88.294868"
+         y="264.27853"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono Bold';stroke-width:0.99345875;fill:#ffcf00;fill-opacity:1;">JOB CENTER</tspan></text>
+  </g>
+</svg>
